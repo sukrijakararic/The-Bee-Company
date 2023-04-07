@@ -216,7 +216,7 @@ justify-content: center;
 .footer {
     margin-top: 70px;
     border-top: 1px solid brown;
-    background-image: url(/resources/images/background-header-comb.avif);
+    background-image: url(../images/background-header-comb.avif);
     background-repeat: no-repeat;
     background-size: cover;
 }
